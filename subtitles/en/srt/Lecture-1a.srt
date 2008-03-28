@@ -4599,7 +4599,7 @@ with the LISP interpreter.
 
 998
 01:11:45,561 --> 01:11:49,357
-I would <???> type in A
+I would type in A
 and LISP would return 25.
 
 999
