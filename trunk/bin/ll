@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+while (<>) {    
+    $l = length($_);
+    printf("[%04d:%02d] %s", (++$i), $l, $_) if ($l > 45);
+}
