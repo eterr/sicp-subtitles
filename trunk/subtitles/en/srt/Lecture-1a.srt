@@ -378,7 +378,8 @@ think of it as like a magical spirit
 
 83
 00:05:44,625 --> 00:05:47,432
-that sort of lives in the computer and does something.
+that sort of lives in the computer and 
+does something.
 
 84
 00:05:47,849 --> 00:05:49,381
@@ -386,7 +387,8 @@ And...
 
 85
 00:05:52,169 --> 00:05:58,065
-The thing that directs a process is a pattern of rules called a procedure.
+The thing that directs a process is a 
+pattern of rules called a procedure.
 
 86
 00:06:01,715 --> 00:06:04,544
@@ -648,18 +650,15 @@ them to build a million-stage amplifier,
 
 140
 00:09:26,974 --> 00:09:29,412
-But it's ridiculous
-to build such a thing, because
+But it's ridiculous to build such a thing, because
 
 141
 00:09:29,747 --> 00:09:33,212
-long before the millionth stage
-the thermal noise in those components
+long before the millionth stage the thermal noise in those components
 
 142
 00:09:33,613 --> 00:09:35,152
-<???> at the beginning
-is gonna get amplified
+way at the beginning is gonna get amplified
 
 143
 00:09:35,459 --> 00:09:37,375
@@ -2417,7 +2416,7 @@ The opening one will flash.
 
 520
 00:36:47,696 --> 00:36:49,875
-There. I'll <???> and do it again...
+There. I'll rub those out and do it again...
 
 521
 00:36:50,133 --> 00:36:52,787
