@@ -76,8 +76,8 @@ is another subject with a lousy name.
 
 17
 00:01:25,794 --> 00:01:29,206
-The name comes from Geo meaning
-the earth and Metro meaning to measure.
+The name comes from 'Gaia' meaning
+the earth and 'Metron' meaning to measure.
 
 18
 00:01:29,722 --> 00:01:33,237
@@ -206,7 +206,7 @@ sort of all of modern mathematics.
 45
 00:03:04,055 --> 00:03:08,735
 Figuring out a way to talk precisely
-about so-called declarative knowledge:
+about so-called 'declarative' knowledge -
 
 46
 00:03:09,164 --> 00:03:11,191
@@ -214,8 +214,8 @@ about so-called declarative knowledge:
 
 47
 00:03:12,514 --> 00:03:15,842
-Well, similarly thinking the future
-people will look back and say
+Well, similarly, I think in the future
+people will look back and say,
 
 48
 00:03:16,243 --> 00:03:18,235
@@ -250,11 +250,11 @@ to talk precisely
 
 55
 00:03:48,555 --> 00:03:51,305
-about 'how to' knowledge.
+about 'how to' knowledge,
 
 56
 00:03:51,741 --> 00:03:56,100
-As opposed to geometry
+as opposed to geometry
 that talks about 'what is true'.
 
 57
@@ -294,7 +294,7 @@ is doesn't really say anything about...
 65
 00:04:28,086 --> 00:04:30,508
 about
-how you might go around to find one.
+how you might go out and find one.
 
 66
 00:04:31,093 --> 00:04:35,758
@@ -304,7 +304,7 @@ with a piece of imperative knowledge.
 67
 00:04:37,002 --> 00:04:39,559
 Right? How you might
-go around and find the square root.
+go out and find the square root.
 
 68
 00:04:39,901 --> 00:04:45,300
@@ -378,7 +378,7 @@ think of it as like a magical spirit
 
 83
 00:05:44,625 --> 00:05:47,432
-that sort of lives in the computer and 
+that sort of lives in the computer and
 does something.
 
 84
@@ -387,7 +387,7 @@ And...
 
 85
 00:05:52,169 --> 00:05:58,065
-The thing that directs a process is a 
+The thing that directs a process is a
 pattern of rules called a procedure.
 
 86
@@ -650,12 +650,12 @@ them to build a million-stage amplifier,
 
 140
 00:09:26,974 --> 00:09:29,412
-But it's ridiculous to build 
+But it's ridiculous to build
 such a thing, because
 
 141
 00:09:29,747 --> 00:09:33,212
-long before the millionth stage the 
+long before the millionth stage the
 thermal noise in those components
 
 142
@@ -2844,7 +2844,7 @@ that I'm actually naming something.
 
 615
 00:44:02,985 --> 00:44:05,213
-So, let me write this 
+So, let me write this
 definition in another way
 
 616
