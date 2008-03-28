@@ -1,0 +1,5 @@
+# Please describe all the major changes here.
+# Increment the counter each time you make a change and add a line on top of the file.
+
+0002 - 
+0001 - Initial directory structure and English SubRip subtitles for Lecture 1a. Sergey Khenkin, 2008-03-28.
