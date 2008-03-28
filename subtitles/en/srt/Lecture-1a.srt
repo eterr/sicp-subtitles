@@ -374,12 +374,11 @@ Well, what's a process in general?
 82
 00:05:38,784 --> 00:05:43,844
 It's a kind of hard to say. You can
-think of it as like a magical spirit.
+think of it as like a magical spirit
 
 83
 00:05:44,625 --> 00:05:47,432
-That's sort of <???>
-in the computering does something.
+that sort of lives in the computer and does something.
 
 84
 00:05:47,849 --> 00:05:49,381
@@ -387,8 +386,7 @@ And...
 
 85
 00:05:52,169 --> 00:05:58,065
-The thing that directs a process is
-a pattern of rules called a procedure.
+The thing that directs a process is a pattern of rules called a procedure.
 
 86
 00:06:01,715 --> 00:06:04,544
