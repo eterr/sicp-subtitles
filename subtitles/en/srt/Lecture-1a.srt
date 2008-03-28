@@ -650,11 +650,13 @@ them to build a million-stage amplifier,
 
 140
 00:09:26,974 --> 00:09:29,412
-But it's ridiculous to build such a thing, because
+But it's ridiculous to build 
+such a thing, because
 
 141
 00:09:29,747 --> 00:09:33,212
-long before the millionth stage the thermal noise in those components
+long before the millionth stage the 
+thermal noise in those components
 
 142
 00:09:33,613 --> 00:09:35,152
@@ -2842,7 +2844,8 @@ that I'm actually naming something.
 
 615
 00:44:02,985 --> 00:44:05,213
-So, let me write this definition in another way
+So, let me write this 
+definition in another way
 
 616
 00:44:05,609 --> 00:44:08,026
