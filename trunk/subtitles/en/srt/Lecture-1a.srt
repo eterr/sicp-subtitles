@@ -27,7 +27,7 @@ Or we'll actually see that computer...
 
 7
 00:00:41,921 --> 00:00:44,700
-so-called science
+so-called 'science'
 actually has a lot in common with magic.
 
 8
@@ -547,11 +547,11 @@ hold them in their heads all at once.
 118
 00:07:53,719 --> 00:08:00,191
 And the only reason that that's possible
-is because there're techniques...
+is because there are techniques...
 
 119
 00:08:01,388 --> 00:08:04,219
-There're techniques...
+There are techniques...
 
 120
 00:08:06,113 --> 00:08:14,423
@@ -2196,7 +2196,7 @@ So by looking at this I can see that
 
 472
 00:33:35,824 --> 00:33:41,162
-there's the operator and there're
+there's the operator and there are
 one,.. two,.. three,.. four operands.
 
 473
@@ -2927,7 +2927,7 @@ this top form of defining.
 
 633
 00:45:33,386 --> 00:45:34,884
-This's 'cause
+This is 'cause
 it's a little bit more convenient.
 
 634
@@ -3103,7 +3103,7 @@ at two more examples of defining.
 
 672
 00:48:44,714 --> 00:48:46,767
-Here're two more procedures.
+Here are two more procedures.
 
 673
 00:48:47,216 --> 00:48:52,927
@@ -3408,11 +3408,11 @@ sign in LISP is a little bit funny.
 
 740
 00:53:14,492 --> 00:53:17,607
-If there're two or more arguments...
+If there are two or more arguments...
 
 741
 00:53:18,007 --> 00:53:21,411
-if there're two arguments then it
+if there are two arguments then it
 subtracts the second one from the first.
 
 742
@@ -4303,7 +4303,7 @@ and the reason for doing that is that
 
 933
 01:07:31,104 --> 01:07:33,000
-if someone's using this square root...
+if someone is using this square root...
 
 934
 01:07:33,360 --> 01:07:36,464
@@ -4415,7 +4415,7 @@ addition, multiplication,
 957
 01:09:15,796 --> 01:09:19,266
 some predicates for testing whether
-something's less than or something is equal
+something is less than or something is equal
 
 958
 01:09:19,567 --> 01:09:21,110
@@ -4630,7 +4630,7 @@ Here is a combination with no operands.
 
 1004
 01:12:16,464 --> 01:12:18,757
-And I see there're no operands.
+And I see there are no operands.
 I didn't put any after D.
 
 1005
