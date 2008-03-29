@@ -1,0 +1,5 @@
+#!/usr/bin/perl
+use Encode qw/from_to/;
+while (<STDIN>) { $x.=$_ }
+from_to($x, $ARGV[0], $ARGV[1]);
+print $x;
