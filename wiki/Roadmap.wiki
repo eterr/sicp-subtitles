@@ -1,7 +1,5 @@
-#summary project roadmap
+#summary project roadmap and completion matrix
 #labels Featured
-
-= Project Roadmap / Completion Matrix =
 
 || Video ([http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/ all]) || English || Francais || Русский || Українська ||
 || Lecture 1a  || [http://code.google.com/p/sicp-subtitles/source/browse/trunk/subtitles/en/srt/Lecture-1a.srt 100%]^+^    || ||[http://code.google.com/p/sicp-subtitles/source/browse/trunk/subtitles/ru/srt/Lecture-1a.srt 2.4%]    ||            || 
