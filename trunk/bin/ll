@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+use utf8;
+use encoding 'utf8';
+# binmode STDIN, ":utf8";
+
 while (<>) {    
     chomp; $l = length($_); $n++;
     printf("[%04d:%02d] %s\n", $n, $l, $_) if ($l > 45);
